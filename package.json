@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-package",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A pretty standard ESLint configuration I use for my packages",
   "author": "Sahar Brodbeker <saharonb@gmail.com> (https://github.com/sahariko)",
   "license": "MIT",

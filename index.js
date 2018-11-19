@@ -11,11 +11,12 @@ module.exports = {
         es6: true
     },
     rules: {
+        eqeqeq: 2,
         'no-console': 0,
         'no-var': 2,
         'prefer-const': 2,
-        semi: 2,
-        quotes: [2, 'single']
+        quotes: [2, 'single'],
+        semi: 2
     },
     overrides: [
         {
